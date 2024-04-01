@@ -4,7 +4,7 @@ export default function TermsCondition() {
         <div>
             <p><strong>PRIVACY POLICY</strong></p>
             <p><strong><strong>Last updated&nbsp;April 01, 2024</strong></strong></p>
-            <p>This privacy notice for&nbsp;Edwin Ricardo Romero Cabezas&nbsp;("<strong><strong>we</strong></strong>," "<strong><strong>us</strong></strong>," or "<strong><strong>our</strong></strong>"), describes how and why we might collect, store, use, and/or share ("<strong><strong>process</strong></strong>") your information when you use our services ("<strong><strong>Services</strong></strong>"), such as when you:</p>
+            <p>This privacy notice for&nbsp;Edwin Ricardo Romero Cabezas&nbsp;(&quot;<strong><strong>we</strong></strong>,&quot;&quot;<strong><strong>us</strong></strong>,&quot;or&quot;<strong><strong>our</strong></strong>&quot;), describes how and why we might collect, store, use, and/or share (&quot;<strong><strong>process</strong></strong>&quot;) your information when you use our services (&quot;<strong><strong>Services</strong></strong>&quot;), such as when you:</p>
             <ul>
                 <li>Download and use&nbsp;our mobile application&nbsp;(PB Personal Budget)&nbsp;,&nbsp;or any other application of ours that links to this privacy notice</li>
             </ul>
@@ -51,7 +51,7 @@ export default function TermsCondition() {
                 <li>names</li>
             </ul>
             <p><strong><strong>Sensitive Information.</strong></strong>&nbsp;We do not process sensitive information.</p>
-            <p><strong><strong>Social Media Login Data.&nbsp;</strong></strong>We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called&nbsp;"<a href="#sociallogins">HOW DO WE HANDLE YOUR SOCIAL LOGINS?</a>&nbsp;"&nbsp;below.</p>
+            <p><strong><strong>Social Media Login Data.&nbsp;</strong></strong>We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called&nbsp;&quot;<a href="#sociallogins">HOW DO WE HANDLE YOUR SOCIAL LOGINS?</a>&nbsp;"&nbsp;below.</p>
             <p><strong><strong>Application Data.</strong></strong>&nbsp;If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:</p>
             <ul>
                 <li><em><em>Mobile Device Access.</em></em>&nbsp;We may request access or permission to certain features from your mobile device, including your mobile device's&nbsp;sms messages,&nbsp;and other features. If you wish to change our access or permissions, you may do so in your device's settings.</li>
