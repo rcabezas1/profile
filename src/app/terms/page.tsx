@@ -54,7 +54,7 @@ export default function TermsCondition() {
             <p><strong><strong>Social Media Login Data.&nbsp;</strong></strong>We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called&nbsp;&quot;<a href="#sociallogins">HOW DO WE HANDLE YOUR SOCIAL LOGINS?</a>&nbsp;&quot;&nbsp;below.</p>
             <p><strong><strong>Application Data.</strong></strong>&nbsp;If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:</p>
             <ul>
-                <li><em><em>Mobile Device Access.</em></em>&nbsp;We may request access or permission to certain features from your mobile device, including your mobile device's&nbsp;sms messages,&nbsp;and other features. If you wish to change our access or permissions, you may do so in your device's settings.</li>
+                <li><em><em>Mobile Device Access.</em></em>&nbsp;We may request access or permission to certain features from your mobile device, including your mobile device&apos;s&nbsp;sms messages,&nbsp;and other features. If you wish to change our access or permissions, you may do so in your device&apos;s settings.</li>
             </ul>
             <p>This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.</p>
             <p>All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.</p>
@@ -107,12 +107,12 @@ export default function TermsCondition() {
             <ol >
                 <li><strong><strong> CONTROLS FOR DO-NOT-TRACK FEATURES</strong></strong></li>
             </ol>
-            <p>Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (&nbsp;"DNT&quot;&nbsp;) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for&nbsp;recognizing&nbsp;and implementing DNT signals has been&nbsp;finalized&nbsp;. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.</p>
+            <p>Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (&nbsp;&quot;DNT&quot;&nbsp;) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for&nbsp;recognizing&nbsp;and implementing DNT signals has been&nbsp;finalized&nbsp;. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.</p>
             <ol >
                 <li><strong><strong> DO WE MAKE UPDATES TO THIS NOTICE?</strong></strong></li>
             </ol>
             <p><em><em><strong><strong>In Short:&nbsp;</strong></strong></em></em><em><em>Yes, we will update this notice as necessary to stay compliant with relevant laws.</em></em></p>
-            <p>We may update this privacy notice from time to time. The updated version will be indicated by an updated&nbsp;"Revised&quot;&nbsp;date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.</p>
+            <p>We may update this privacy notice from time to time. The updated version will be indicated by an updated&nbsp;&quot;Revised&quot;&nbsp;date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.</p>
             <ol >
                 <li><strong><strong> HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</strong></strong></li>
             </ol>
@@ -124,7 +124,7 @@ export default function TermsCondition() {
                 <li><strong><strong> HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</strong></strong></li>
             </ol>
             <p>Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it.&nbsp;To request to review, update, or delete your personal information, please&nbsp;fill out and submit a <a href="https://app.termly.io/notify/3f462ff5-61d4-45ca-a12c-7c87ded671c9">data subject access request</a>&nbsp;.</p>
-            <p>This privacy policy was created using Termly's&nbsp;<a href="https://termly.io/products/privacy-policy-generator/">Privacy Policy Generator</a>.</p>
+            <p>This privacy policy was created using Termly&apos;s&nbsp;<a href="https://termly.io/products/privacy-policy-generator/">Privacy Policy Generator</a>.</p>
         </div>
     );
 }
